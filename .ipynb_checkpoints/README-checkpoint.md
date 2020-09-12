@@ -1,2 +1,3 @@
-# cheatsheet
-A quick guide for python and linux commands
+# Cheatsheet
+A quick guide for Python, Scala and Linux commands
+Author - Abu Shoeb
